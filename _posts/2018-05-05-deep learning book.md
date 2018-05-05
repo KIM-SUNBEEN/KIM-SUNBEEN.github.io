@@ -1,15 +1,16 @@
 ---
-title: deep learning book
+title: (1) deep learning book Introduction
 date: 2018-05-05 23:29:08
 categories:
-- books
-tags: deep learning
+- deep learning book
+tags: deeplearning
 ---
 
 안녕하세요. 데이터를 공부하고 있는 BEENSUN입니다.
 Deep Learning textbook을 읽고 공부한것을 요약정리 해보려 합니다.
-이 책은 *무료* 로 제공하고 있습니다. 최고예요~
- URL : [딥러닝 북](http://www.deeplearningbook.org/)
+이 책은 *무료* 로 제공하고 있습니다. 최고입니다~ ㅎ
+
+> URL : [딥러닝 북](http://www.deeplearningbook.org/)
 
 목차를 먼저 살펴볼께요. 아래와 같이 크게 3가지 파트로 구성되어 있어요.
 
@@ -19,7 +20,7 @@ Deep Learning textbook을 읽고 공부한것을 요약정리 해보려 합니�
 - `Part3` : Deep Learning Research
 
 세세한 내용도 많지만 공부 후에 자세하게 정리하겠습니다.
-> 포스트를 하면서 제 나름대로 정리하기 때문에 본문과 내용이 다를 수 있습니다.
+*포스트를 하면서 제 나름대로 정리하기 때문에 본문과 내용이 다를 수 있습니다.*
 
 이번 포스트에서는 `Introduction`에 대해서 적당히 다뤄볼께요.
 
