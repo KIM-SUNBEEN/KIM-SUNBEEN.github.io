@@ -5,8 +5,8 @@
 
 # Site
 title: BEENSUN
-subtitle: subtitle
-description: description
+subtitle:
+description: 데이터를 공부하고 있습니다.
 author: KIM SUNBEEN
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
