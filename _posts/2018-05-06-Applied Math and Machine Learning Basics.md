@@ -1,5 +1,5 @@
 ---
-title: (2) Part1 : Linear Algebra 진행중..
+title: (2) deep learning book : Linear Algebra
 date: 2018-05-05 23:29:08
 categories:
 - deep learning book
@@ -35,6 +35,8 @@ tags: deeplearning
 
 - 단위행렬 : 행렬의 대각 원소는 모두 1, 대각 원소가 아닌 원소들은 모두 0으로 이루어진 행렬입니다. 단위행렬은 어떠한 행렬에 곱하더라고 자기 자신이 나온다는 성질을 가지고 있습니다.
 - 역행렬 : 임의의 행렬 A에 대하여 A<sup>-1</sup>로 표현하며, 곱하면 단위행렬이 나오는 행렬입니다. 교환법칙이 성립합니다.
+
+== 진행중 ==
 
 ### Linear Dependence and Span
 
