@@ -1,6 +1,6 @@
 ---
-title: (2) deep learning book : Linear Algebra
-date: 2018-05-14 23:29:08
+title: (2) deeplearning book_Linear Algebra
+date: 2018-05-13 23:29:08
 categories:
 - deeplearning book
 tags: deeplearning

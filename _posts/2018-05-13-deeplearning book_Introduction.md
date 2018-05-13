@@ -1,6 +1,6 @@
 ---
-title: (1) deep learning book : Introduction
-date: 2018-05-05 23:29:08
+title: (1) deeplearning book_Introduction
+date: 2018-05-13 23:29:08
 categories:
 - deeplearning book
 tags: deeplearning
